@@ -6,7 +6,7 @@
 
 ## Aufgabe 2 (30 Punkte)
 Schreibe ein Programm, das den Benutzer nach einer Ganzzahl fragt. Es soll die Fakultät (englisch: factorial) der Zahl berechnet und ausgegeben werden. Falls die eingegebene Zahl negativ ist, soll ihr Betrag verwendet werden. (Absolutwert: -7 -> 7)
-Nutze die math-Bibliothek für die Berechnung der Fakultät.
+Nutze die math-Bibliothek für die Berechnung der Fakultät. https://docs.python.org/3/library/math.html
 
 Beispielsausgabe:
 ```shell
