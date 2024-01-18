@@ -11,8 +11,8 @@ with open("class/output/out0.txt", "w") as file1:
 # x gibt an, dass wir nur eine Datei erstellen, wenn sie nicht
 # exisitiert. Falls vorhanden wird Fehler ausgegeben
 
-# with open("class/output/out1.txt", "x") as file2:
-#     file2.write("Hallo, ich bin ganz neu hier. :)")
+with open("class/output/out1.txt", "x") as file2:
+    file2.write("Hallo, ich bin ganz neu hier. :)")
 
 # a gibt an, dass wir eine neue Datei erstellen und ggfs. an die alte
 # Datei etwas anhängen

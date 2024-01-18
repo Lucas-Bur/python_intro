@@ -1,5 +1,4 @@
-# Wir wollen zufällige Zhalen generieren. Dafür gibt es das Modul random
-
+# Wir wollen zufällige Zahlen generieren. Dafür gibt es das Modul random
 import random
 
 # Wir können unsere Bibliothek mit as umbenennen.

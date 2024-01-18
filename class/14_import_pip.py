@@ -1,8 +1,8 @@
 # wir nutzen den Paketmanager pip, um Pakete zu installieren
 # pip install <paketname>
-# installierte pakete sind global verfügbar
+# installierte pakete sind (fürs erste) global verfügbar
 
-# Wir verwenden art
+# Wir verwenden das Paket art
 
 import art
 
