@@ -18,7 +18,7 @@ Es wurde eine negative Zahl erkannt. Die Fakultät von 5 lautet: 120
 ```
 
 ### Aufgabe 3 (30 Punkte)
-Schreibe ein Programm, was den Inhalt aus der Datei ha4_aufgabe3_input.txt liest und in eine Liste speichert. Zu jeder positiven Zahl soll 100 addiert werden. Von jeder negativen Zahl soll 100 subtrahiert werden. Die 0 soll unverändert bleiben.
+Schreibe ein Programm, was den Inhalt aus der Datei ha4_aufgabe3.txt liest und in eine Liste speichert. Zu jeder positiven Zahl soll 100 addiert werden. Von jeder negativen Zahl soll 100 subtrahiert werden. Die 0 soll unverändert bleiben.
 Speichere das Ergebnis in einer neuen Datei ha4_aufgabe3_output.txt.
 
 Beispieleingabe:
@@ -36,7 +36,7 @@ Beispielausgabe:
 ```
 ### Aufgabe 4 (20 Punkte)
 
-1. Lese die Liste von Dictionarys aus der Datei ha4_aufgabe4_input.json ein.
+1. Lese die Liste von Dictionarys aus der Datei ha4_aufgabe4.json ein.
 2. Gehe jeden Eintrag durch und gib die email-Adresse von allen männlichen Personen aus.
 
 ## Extra Aufgaben für Extra Punkte
